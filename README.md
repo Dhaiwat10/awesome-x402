@@ -7,6 +7,7 @@ Curated resources for the x402 ecosystem: specs, repos, standards, and community
 ### Quick Links
 - [Website](https://www.x402.org/)
 - [Spec / Repo](https://github.com/coinbase/x402)
+- [Explorer](https://x402scan.com/)
 
 ### What is x402?
 x402 is an emerging open standard from the Coinbase ecosystem focused on safer, more composable authorization and transaction flows. This list tracks authoritative resources and adjacent standards commonly used alongside x402-style flows.
@@ -44,6 +45,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Faremeter (Typescript Facilitator, Middleware, and Examples)](https://github.com/faremeter/faremeter)
 - [x402-dotnet (Community)](https://github.com/michielpost/x402-dotnet)
 - [MCPay (Build and Monetize MCP servers. SDK, Infrastructure and Examples)](https://github.com/microchipgnu/mcpay)
+- [x402-mcp package (Vercel)](https://github.com/ethanniser/x402-mcp)
 
 
 ### Standards and EIPs
@@ -62,6 +64,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Quickstart for Buyers](https://docs.cdp.coinbase.com/x402/quickstart-for-buyers)
 - [MCP Server with x402 Guide](https://docs.cdp.coinbase.com/x402/mcp-server)
 - [Base AgentKit – Building Autonomous Agents with x402](https://docs.base.org/agentkit/x402)
+- [Vercel x402 MCP SDK Announcement](https://vercel.com/blog/introducing-x402-mcp-open-protocol-payments-for-mcp-tools)
 
 ### Example Apps
 - [QuickNode Video Paywall Demo](https://www.quicknode.com/sample-app-library/coinbase-x402)
