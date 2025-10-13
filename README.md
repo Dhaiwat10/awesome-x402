@@ -16,16 +16,17 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Whitepaper (PDF)](https://www.x402.org/x402-whitepaper.pdf)
 - [x402 Developer Docs Portal](https://docs.cdp.coinbase.com/x402/welcome)
 - [Coinbase Announcement – Introducing x402](https://www.coinbase.com/developer-platform/discover/launches/x402)
-- [GitHub repo](https://github.com/coinbase/x402) — issues, proposals, and reference materials  
+- [GitHub repo](https://github.com/coinbase/x402) — issues, proposals, and reference materials
   - [Issues](https://github.com/coinbase/x402/issues)
 - [Cloudflare Announcement of the x402 Foundation](https://blog.cloudflare.com/x402/)
 
 ### Ecosystem
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
+- [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
 
 ### Facilitators & Networks
-- [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)  
+- [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
 -- [Supported Networks](https://docs.cdp.coinbase.com/get-started/supported-networks#x402)
 - [PayAI Facilitator & Supported Networks](https://docs.payai.network/x402/quickstart#facilitator)
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
@@ -36,6 +37,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [coinbase/x402 (GitHub)](https://github.com/coinbase/x402)
 - [x402-rs (Rust Facilitator & SDK)](https://github.com/x402-rs/x402-rs)
 - [x402 TypeScript SDKs](https://github.com/coinbase/x402/tree/main/typescript)
+- [x402-analytics (NPM)](https://www.npmjs.com/package/x402-analytics) - Analytics wrapper for x402 payments with monitoring and insights.
 - [x402-Solana (Community)](https://github.com/8bitsats/x402-Solana)
 - [Pipegate (x402 + Payment Channels)](https://github.com/Dhruv-2003/pipegate)
 - [thirdweb/x402 (Github)](https://github.com/thirdweb-dev/js/tree/main/packages/thirdweb/src/x402)
@@ -44,7 +46,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 
 ### Standards and EIPs
-- [ERC-3009 — Transfer With Authorization](https://eips.ethereum.org/EIPS/eip-3009): meta-transaction transfers using EIP-712 signatures, enabling gasless and recipient-submitted transfers. 
+- [ERC-3009 — Transfer With Authorization](https://eips.ethereum.org/EIPS/eip-3009): meta-transaction transfers using EIP-712 signatures, enabling gasless and recipient-submitted transfers.
 - [EIP-712 — Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712): canonical typed signing used by modern wallets.
 - [EIP-2612 — permit for ERC-20](https://eips.ethereum.org/EIPS/eip-2612): approvals via signatures; often complementary to authorization-based flows.
 - [ERC-4337 — Account Abstraction (AA)](https://eips.ethereum.org/EIPS/eip-4337): smart account architecture that pairs well with authorization patterns.
@@ -68,6 +70,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Pinata – Monetize AI Hardware (Jetson) with x402](https://pinata.cloud/blog/using-x402-to-monetize-ai-hardware/)
 - [Pinata jetson-x402 (Code)](https://github.com/PinataCloud/jetson-x402)
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
+- [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
 
 
 ### Security & Ops
