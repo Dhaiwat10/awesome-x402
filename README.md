@@ -46,6 +46,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402-dotnet (Community)](https://github.com/michielpost/x402-dotnet)
 - [MCPay (Build and Monetize MCP servers. SDK, Infrastructure and Examples)](https://github.com/microchipgnu/mcpay)
 - [x402-mcp package (Vercel)](https://github.com/ethanniser/x402-mcp)
+- [x402-sovereign - SDK for Self-hosting your Facilitator](https://github.com/Dhaiwat10/x402-sovereign)
 
 
 ### Standards and EIPs
